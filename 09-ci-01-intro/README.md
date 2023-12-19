@@ -38,8 +38,13 @@
 
 ---
 
-### Как оформить решение задания
 
-Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
+![Screenshot_2](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/96b7669e-c0f2-491a-b65b-871ace55e279)
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/8d297555-68f9-48ae-98da-557246ba5038)
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/d9f977db-13ae-45fb-baf2-b74fdc776acf)
+
+
 
 ---
