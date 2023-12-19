@@ -39,8 +39,9 @@
 ---
 ##Ссылки на файлы 
 
-[BUG]([https://pages.github.com/](https://github.com/Fe1br0/mnt-homeworks/blob/MNT-video/09-ci-01-intro/BUUUG.xml)).
-[TASK]([https://pages.github.com/](https://github.com/Fe1br0/mnt-homeworks/blob/MNT-video/09-ci-01-intro/TASK.xml)).
+[BUG](https://github.com/Fe1br0/mnt-homeworks/blob/MNT-video/09-ci-01-intro/BUUUG.xml)
+
+[TASK](https://github.com/Fe1br0/mnt-homeworks/blob/MNT-video/09-ci-01-intro/TASK.xml)
 
 ## Скриншоты
 ![Screenshot_2](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/96b7669e-c0f2-491a-b65b-871ace55e279)
