@@ -17,6 +17,9 @@ Free cloud account имеет следующие ограничения:
 
 Для выполнения задания - пришлите скриншот меню Projects.
 
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/f9d918fa-5e61-4faf-861d-037221f07dce)
+
+
 ## Задание 2
 
 Создайте python проект и нажмите `Generate sample event` для генерации тестового события.
@@ -27,6 +30,13 @@ Free cloud account имеет следующие ограничения:
 
 Для выполнения задание предоставьте скриншот `Stack trace` из этого события и список событий проекта, 
 после нажатия `Resolved`.
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/770df5b3-f550-42f9-be4a-066bd9bfafe9)
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/efee44cb-b132-4ac6-9131-6100783fa7df)
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/9bf067f0-242e-4d2e-a5e7-81221ee280f9)
+
 
 ## Задание 3
 
@@ -44,6 +54,9 @@ Free cloud account имеет следующие ограничения:
 Также проверьте проект в котором вы создаёте событие, возможно алёрт привязан к другому.
 
 Для выполнения задания - пришлите скриншот тела сообщения из оповещения на почте.
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/0eb19599-7a1d-47cc-9ddc-71da57be035d)
+
 
 Дополнительно поэкспериментируйте с правилами алёртинга. 
 Выбирайте разные условия отправки и создавайте sample events. 
