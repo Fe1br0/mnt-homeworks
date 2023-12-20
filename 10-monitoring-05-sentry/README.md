@@ -55,6 +55,9 @@ Free cloud account имеет следующие ограничения:
 
 Для выполнения задания - пришлите скриншот тела сообщения из оповещения на почте.
 
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/9061b28e-683a-4982-ba63-9f1a6c61b8be)
+
+
 ![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/0eb19599-7a1d-47cc-9ddc-71da57be035d)
 
 
