@@ -57,6 +57,8 @@ node_filesystem_free_bytes{instance="nodeexporter:9100", job="nodeexporter", mou
 1. В качестве решения задания приведите листинг этого файла.
 
 
+[Ссылка на JSON](https://github.com/Fe1br0/mnt-homeworks/blob/MNT-video/10-monitoring-03-grafana/json)
+
 
 
 ---
