@@ -4,6 +4,7 @@
 
 1. Подготовьте в Yandex Cloud три хоста: для `clickhouse`, для `vector` и для `lighthouse`.
 
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/d8c00c40-c871-47a6-a1d9-61949ad0453c)
 
 
 2. Репозиторий LightHouse находится [по ссылке](https://github.com/VKCOM/lighthouse).
@@ -15,11 +16,29 @@
 3. Tasks должны: скачать статику LightHouse, установить Nginx или любой другой веб-сервер, настроить его конфиг для открытия LightHouse, запустить веб-сервер.
 4. Подготовьте свой inventory-файл `prod.yml`.
 5. Запустите `ansible-lint site.yml` и исправьте ошибки, если они есть.
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/f31ce15e-1fb9-469c-9828-9be87a1d9d17)
+
+
 6. Попробуйте запустить playbook на этом окружении с флагом `--check`.
 7. Запустите playbook на `prod.yml` окружении с флагом `--diff`. Убедитесь, что изменения на системе произведены.
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/114f3935-7187-4488-a8ec-e737b5a994a0)
+
+
 8. Повторно запустите playbook с флагом `--diff` и убедитесь, что playbook идемпотентен.
+
+![image](https://github.com/Fe1br0/mnt-homeworks/assets/106814458/07b7ff01-8f20-4abe-af25-972d1f02dcc1)
+
+
 9. Подготовьте README.md-файл по своему playbook. В нём должно быть описано: что делает playbook, какие у него есть параметры и теги.
+
+В процессе выполнения настраиваются и устанавливаются следующие компоненты: clickhouse, vector, lighthouse и nginx. Для clickhouse выполняется настройка удаленного подключения к приложению и создание базы данных. В файле "vars" указаны требуемые версии приложений для установки. В инвентарном файле указаны удаленные хосты и имя пользователя для подключения.
+
 10. Готовый playbook выложите в свой репозиторий, поставьте тег `08-ansible-03-yandex` на фиксирующий коммит, в ответ предоставьте ссылку на него.
+
+
+[Playbook](https://github.com/Fe1br0/mnt-homeworks/tree/MNT-video/08-ansible-03-yandex/playbook)
 
 ---
 
