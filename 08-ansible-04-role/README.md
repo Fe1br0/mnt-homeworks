@@ -34,3 +34,10 @@
 
 ## Ответ
 
+[Playbook](https://github.com/Fe1br0/mnt-homeworks/tree/MNT-video/08-ansible-04-role/playbook)
+
+[Clickhouse](https://github.com/Fe1br0/Clickhouse)
+
+[Vector](https://github.com/Fe1br0/Vector)
+
+[Lighthouse](https://github.com/Fe1br0/Lighthouse)
