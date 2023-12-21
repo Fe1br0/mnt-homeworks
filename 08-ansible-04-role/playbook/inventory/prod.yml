@@ -1,0 +1,17 @@
+clickhouse:
+  hosts:
+   clickhouse-centos:
+      ansible_host: 51.250.23.93
+      ansible_user: fe1br0
+
+lighthouse:
+  hosts:
+   lightouse-centos:
+      ansible_host: 51.250.97.255
+      ansible_user: fe1br0
+
+vector:
+  hosts:
+   vector-role:
+      ansible_host: 130.193.52.42
+      ansible_user: fe1br0
