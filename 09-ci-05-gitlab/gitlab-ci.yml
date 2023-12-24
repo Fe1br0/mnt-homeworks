@@ -1,0 +1,23 @@
+image: docker:20.10.5
+stages: 
+  - build
+  - deploy
+services:
+  - docker:20.10.5-dind
+build_only_image:
+  stage: build
+  script: docker build -t $CI_REGISTRY/fe1br0/netology/app:latest .
+  tags:
+  - Ubuntu
+  except:
+    - main
+build_push_image:
+  stage: deploy
+  tags:
+  - Ubuntu
+  script:
+    - docker build -t $CI_REGISTRY/fe1br0/netology/app:latest .
+    - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" $CI_REGISTRY
+    - docker push $CI_REGISTRY/fe1br0/netology/app:latest
+  only:
+    - main
