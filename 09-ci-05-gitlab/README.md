@@ -182,8 +182,8 @@ Job succeeded
 
 В качестве ответа пришлите подробные скриншоты по каждому пункту задания:
 
-- файл gitlab-ci.yml; 
-- Dockerfile; 
+- файл gitlab-ci.yml; [gitlab-ci](https://github.com/Fe1br0/mnt-homeworks/blob/master/09-ci-05-gitlab/gitlab-ci.yml)
+- Dockerfile; [Dockerfile](https://github.com/Fe1br0/mnt-homeworks/blob/master/09-ci-05-gitlab/Dockerfile)
 - лог успешного выполнения пайплайна;
 - решённый Issue.
 
